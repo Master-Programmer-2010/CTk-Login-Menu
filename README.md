@@ -19,11 +19,16 @@
 ## Screenshots
 
 <p align="center">
-  <img scr=""
+  <img src="images/login_menu_screenshot.png"
 alt="Image 1" width="45%" />
-  <img scr=""
+  <img src="images/sign_up_menu_screenshot.png"
 alt="Image 2" width="45%" />
-</p>
+
+<p align="center">
+  <img src="images/admin_menu_screenshot.png"
+alt="Image 1" width="45%" />
+  <img src="images/settings_menu_screenshot.png"
+alt="Image 2" width="45%" />
 
 ## Key Features
 

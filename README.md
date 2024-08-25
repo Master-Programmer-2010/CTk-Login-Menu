@@ -10,6 +10,11 @@
 <h4 align="center">A login system built with <a href="https://github.com/TomSchimansky/CustomTkinter" target="_blank">CustomTkinter</a>.</h4>
 
 <p align="center">
+  <img src="https://img.shields.io/github/downloads/Master-Programmer-2010/CTk-Login-Menu/total" alt="Downloads Badge">
+</p>
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+<p align="center">
   <a href="#screenshots">Screenshots</a> • 
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •

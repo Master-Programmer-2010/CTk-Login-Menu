@@ -16,14 +16,6 @@
   <a href="#download">Download</a>
 </p>
 
-## h
-## h
-## b
-## b
-## b
-## b
-## b
-
 ## Screenshots
 
 ## Key Features

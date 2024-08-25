@@ -10,6 +10,26 @@
 <h4 align="center">A login system built with <a href="https://github.com/TomSchimansky/CustomTkinter" target="_blank">CustomTkinter</a>.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> . 
-  <a href="#how-to-use">How To Use</a> .
-  
+  <a href="#screenshots">Screenshots</a>
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a>
+</p>
+
+## h
+## h
+## b
+## b
+## b
+## b
+## b
+
+## Screenshots
+
+## Key Features
+
+## How To Use
+
+## Download
+
+## License

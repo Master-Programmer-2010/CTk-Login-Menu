@@ -10,10 +10,12 @@
 <h4 align="center">A login system built with <a href="https://github.com/TomSchimansky/CustomTkinter" target="_blank">CustomTkinter</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Master-Programmer-2010/CTk-Login-Menu/total" alt="Downloads Badge">
+  <img src="https://img.shields.io/github/downloads/Master-Programmer-2010/CTk-Login-Menu/total?label=Downloads" alt="Downloads Badge">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=License: MIT>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt=License: MIT>
   </a>
+  <img src="https://img.shields.io/github/v/release/Master-Programmer-2010/CTk-Login-Menu?label=Release" alt=Github release (latest by date)>
+
 </p>
 
 <p align="center">

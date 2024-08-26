@@ -11,7 +11,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Master-Programmer-2010/CTk-Login-Menu/total" alt="Downloads Badge">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt=License Badge>
 </p>
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <p align="center">

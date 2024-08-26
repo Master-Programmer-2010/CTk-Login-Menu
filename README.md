@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt=License: MIT>
   </a>
   <img src="https://img.shields.io/github/v/release/Master-Programmer-2010/CTk-Login-Menu?label=Release" alt=Github release (latest by date)>
-
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python Badge">
+  </a>
 </p>
 
 <p align="center">

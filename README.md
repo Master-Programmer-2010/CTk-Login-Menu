@@ -14,28 +14,27 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt=License Badge>
 </p>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-
 <p align="center">
   <a href="#screenshots">Screenshots</a> • 
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a>
+  <a href="#download">Download</a> •
+  <a href="#license">License</a>
 </p>
 
 ## Screenshots
 
 <p align="center">
   <img src="images/login_menu_screenshot.png"
-alt="Image 1" width="45%" />
+alt="Login Menu Image" width="45%" />
   <img src="images/sign_up_menu_screenshot.png"
-alt="Image 2" width="45%" />
+alt="Sign Up Menu Image" width="45%" />
 
 <p align="center">
   <img src="images/admin_menu_screenshot.png"
-alt="Image 1" width="45%" />
+alt="Admin Menu" width="45%" />
   <img src="images/settings_menu_screenshot.png"
-alt="Image 2" width="45%" />
+alt="Settings Menu" width="45%" />
 
 ## Key Features
 

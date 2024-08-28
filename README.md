@@ -45,3 +45,7 @@
 ## Download
 
 ## License
+
+[CTk-Login-Menu](https://github.com/Master-Programmer-2010/CTk-Login-Menu) is licensed under the `MIT License`.
+
+See [LICENSE](./LICENSE) for details.

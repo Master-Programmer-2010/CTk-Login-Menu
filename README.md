@@ -101,7 +101,7 @@ After completing the installation, you can log in with the default admin credent
 - **Username:** `Admin`
 - **Password:** `AdminPass123!`
 
-> **Note:** Feel free to change the Admin username and/or password but make sure to hash it with the same way.
+> **Note:** Feel free to change the Admin username and/or password but make sure to hash it with the same way and change the corresponding variable in the code.
 
 ### Running the Application
 

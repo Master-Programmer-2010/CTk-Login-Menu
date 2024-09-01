@@ -23,8 +23,7 @@
 <p align="center">
   <a href="#screenshots">Screenshots</a> • 
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#getting-started">Getting Started</a> •
   <a href="#license">License</a>
 </p>
 
@@ -51,13 +50,7 @@
  
 
 - **Responsive Design:** The application is designed to fit a fixed window size, ensuring that the layout remains consistent across different screen resolutions.
-
-
-- **Customizable Appearance:**
-
-  - **Dark Mode:** The GUI is set to a dark mode by default, providing a modern and eye-friendly appearance.
-  - **Custom Fonts and Icons:** Various UI elements, such as buttons and input fields, feature custom fonts and icons to match the overall theme of the application.
- 
+-  
 
 - **Persistent User Data:**
 
@@ -65,10 +58,10 @@
   - **Error Handling:** The application gracefully handles missing or corrupt user data files, automatically creating a new user database if needed.
  
 
-- **Admin Panel with Settings:**
+- **Admin Panel with Database Settings:**
 
-  - **Admin-Only Access:** The settings menu is accessible exclusively through the admin panel, allowing only authorized users to make critical changes.
-  - **Settings Management:** Admin users can access various settings, potentially including user management, theme changes, and system configurations (depending on implementation).
+  - **Admin-Only Access:** The settings menu is accessible exclusively through the admin panel, allowing only authorized users to make settings to the database.
+  - **Settings Management:** The Admin user can access various settings, including deleting users and changing passwords.
 
 
 - **Visual Feedback and Accessibility:**
@@ -83,9 +76,39 @@
   - **Resource Management:** External resources like images and icons are managed efficiently, ensuring the application's responsiveness and performance.
 
 
-## How To Use
+## Getting Started
 
-## Download
+### Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Master-Programmer-2010/CTk-Login-Menu.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd your-repo
+   ```
+
+3. **Install the required packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+### Initial Setup
+
+After completing the installation, you can log in with the default admin credentials:
+
+- **Username:** `Admin`
+- **Password:** `AdminPass123!`
+
+> **Note:** Feel free to change the Admin username and/or password but make sure to hash it with the same way.
+
+### Running the Application
+
+To start the application, use the following command:
+```bash
+python Login\ Menu.py
+```
 
 ## License
 

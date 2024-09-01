@@ -16,7 +16,7 @@
   </a>
   <img src="https://img.shields.io/github/v/release/Master-Programmer-2010/CTk-Login-Menu?label=Release" alt=Github release (latest by date)>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Badge">
   </a>
 </p>
 
@@ -50,7 +50,6 @@
  
 
 - **Responsive Design:** The application is designed to fit a fixed window size, ensuring that the layout remains consistent across different screen resolutions.
--  
 
 - **Persistent User Data:**
 
@@ -60,7 +59,7 @@
 
 - **Admin Panel with Database Settings:**
 
-  - **Admin-Only Access:** The settings menu is accessible exclusively through the admin panel, allowing only authorized users to make settings to the database.
+  - **Admin-Only Access:** The settings menu is accessible exclusively through the Admin panel, allowing only the Admin user to make settings to the database.
   - **Settings Management:** The Admin user can access various settings, including deleting users and changing passwords.
 
 
@@ -78,6 +77,12 @@
 
 ## Getting Started
 
+### Prerequisites
+- Python 3.12
+- `customtkinter` library
+- `PIL` (Pillow) library
+> **Note:** May work with other versions but only tested on 3.12.
+
 ### Installation
 1. **Clone the Repository:**
    ```bash
@@ -86,14 +91,37 @@
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo
+   cd CTk-Login-Menu
    ```
 
-3. **Install the required packages:**
+3. **Create a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv env
+   ```
+
+4. **Activate the virtual environment:**
+   -**On Windows:**
+   ```bash
+   .\env\Scripts\activate
+   ```
+
+   -**On macOS/Linux:**
+   ```bash
+   source env/bin/activate
+   ```
+
+5. **Install the required dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-   
+
+### Running the Application
+
+To start the application, use the following command:
+```bash
+python main.py
+```
+
 ### Initial Setup
 
 After completing the installation, you can log in with the default admin credentials:
@@ -101,13 +129,11 @@ After completing the installation, you can log in with the default admin credent
 - **Username:** `Admin`
 - **Password:** `AdminPass123!`
 
-> **Note:** Feel free to change the Admin username and/or password but make sure to hash it with the same way and change the corresponding variable in the code.
+> **Note:** Feel free to change the Admin username and/or password but make sure to hash the password the same way and change the corresponding variable in the code as shown bellow.
 
-### Running the Application
-
-To start the application, use the following command:
-```bash
-python Login\ Menu.py
+```python
+self.admin_username = "Admin"
+self.admin_password = "a44ca5d29f6dab4320ab986479fa985b2d584b11a7da934f7e80bb1449913a07" # hashed with SHA-256
 ```
 
 ## License
